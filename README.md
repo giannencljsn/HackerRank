@@ -2,7 +2,7 @@
 
 My HackerRank Solutions (Ongoing) 
 
-Using only Csharp programming language. 
+Using  programming languages: C#, Javascript, PHP
 
 
 ###
