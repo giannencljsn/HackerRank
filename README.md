@@ -3,7 +3,7 @@
 
 My HackerRank Solutions (Ongoing) 
 
-Using  programming languages: C#, Javascript, PHP
+Using  programming languages: C#, Javascript, PHP but mostly C#...
 
 
 ###
